@@ -1,5 +1,11 @@
 [
   {
+    "name": "1e952ad8-5f38-41e2-a0ef-d94a442f338f",
+    "notes": "Test Digital Garden Go Live",
+    "imageUrl": "undefined",
+    "date": "2026-07-09T17:25:00.000Z"
+  },
+  {
     "name": "90d05525-62bb-4cab-8e69-25ac8f49b872",
     "notes": "Test Digital Garden Go Live Image",
     "imageUrl": "https://raw.githubusercontent.com/Lacketronik/Digital-Garden/main/garden-images/F0BG4EVFBJP_LIVE.webp",
@@ -50,12 +56,6 @@
   {
     "name": "dummy7",
     "notes": "dummy7",
-    "imageUrl": "undefined",
-    "date": "2026-07-09T13:55:00.000Z"
-  },
-  {
-    "name": "dummy6",
-    "notes": "dummy6",
     "imageUrl": "undefined",
     "date": "2026-07-09T13:55:00.000Z"
   }
