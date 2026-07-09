@@ -1,24 +1,30 @@
 [
   {
+    "name": "8b1b18d7-f49a-48df-8a63-bec2ce004b2b",
+    "notes": "This is a test message for the video demo",
+    "imageUrl": "https://github.com/Lacketronik/Digital-Garden/raw/main/garden-images/F0BGBFQJ7PT_HELLO.png",
+    "date": "2026-07-09T15:11:00.000Z"
+  },
+  {
     "name": "3b259cb6-d7a1-434c-a482-0aa0a25c4ed5",
     "notes": "Testing Garden Archive (This should move the 11th entry of the active database to the archive database)",
     "imageUrl": "undefined",
     "date": "2026-07-09T14:22:00.000Z"
   },
   {
-    "name": "85d0b3e4-d76e-4d1f-90b8-697265779e38 (1)",
+    "name": "85d0b3e4-d76e-4d1f-90b8-697265779e38",
     "notes": "Working on a Digital Garden for my web portfolio",
     "imageUrl": "https://github.com/Lacketronik/Digital-Garden/raw/main/garden-images/F0BFT3SA94P_Garden-Feature.webp",
     "date": "2026-07-09T14:07:00.000Z"
   },
   {
-    "name": "6dc34c2d-2641-4081-a648-272244479d13 (1)",
+    "name": "6dc34c2d-2641-4081-a648-272244479d13",
     "notes": "First Image entry test",
     "imageUrl": "https://github.com/Lacketronik/Digital-Garden/raw/main/garden-images/F0BFYD7BK26_pipdream_deploy.webp",
     "date": "2026-07-09T14:06:00.000Z"
   },
   {
-    "name": "deccb17d-1de0-4d79-bc70-7fd6ea9f653d (1)",
+    "name": "deccb17d-1de0-4d79-bc70-7fd6ea9f653d",
     "notes": "This is the first post to see the Digital Garden Live!",
     "imageUrl": "undefined",
     "date": "2026-07-09T14:06:00.000Z"
@@ -50,12 +56,6 @@
   {
     "name": "dummy4",
     "notes": "dummy4",
-    "imageUrl": "undefined",
-    "date": "2026-07-09T13:55:00.000Z"
-  },
-  {
-    "name": "dummy3",
-    "notes": "dummy3",
     "imageUrl": "undefined",
     "date": "2026-07-09T13:55:00.000Z"
   }
