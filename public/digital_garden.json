@@ -1,5 +1,11 @@
 [
   {
+    "name": "002d90bc-6d92-4a9e-927e-7fa285ddbed4",
+    "notes": "Test message for the video demo",
+    "imageUrl": "undefined",
+    "date": "2026-07-09T15:17:00.000Z"
+  },
+  {
     "name": "8b1b18d7-f49a-48df-8a63-bec2ce004b2b",
     "notes": "This is a test message for the video demo",
     "imageUrl": "https://github.com/Lacketronik/Digital-Garden/raw/main/garden-images/F0BGBFQJ7PT_HELLO.png",
@@ -50,12 +56,6 @@
   {
     "name": "dummy5",
     "notes": "dummy5",
-    "imageUrl": "undefined",
-    "date": "2026-07-09T13:55:00.000Z"
-  },
-  {
-    "name": "dummy4",
-    "notes": "dummy4",
     "imageUrl": "undefined",
     "date": "2026-07-09T13:55:00.000Z"
   }
