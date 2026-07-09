@@ -1,20 +1,62 @@
 [
   {
-    "name": "85d0b3e4-d76e-4d1f-90b8-697265779e38",
+    "name": "85d0b3e4-d76e-4d1f-90b8-697265779e38 (1)",
     "notes": "Working on a Digital Garden for my web portfolio",
     "imageUrl": "https://github.com/Lacketronik/Digital-Garden/raw/main/garden-images/F0BFT3SA94P_Garden-Feature.webp",
-    "date": "2026-07-09T13:21:00.000Z"
+    "date": "2026-07-09T14:07:00.000Z"
   },
   {
-    "name": "6dc34c2d-2641-4081-a648-272244479d13",
+    "name": "6dc34c2d-2641-4081-a648-272244479d13 (1)",
     "notes": "First Image entry test",
     "imageUrl": "https://github.com/Lacketronik/Digital-Garden/raw/main/garden-images/F0BFYD7BK26_pipdream_deploy.webp",
-    "date": "2026-07-08T12:56:00.000Z"
+    "date": "2026-07-09T14:06:00.000Z"
   },
   {
-    "name": "deccb17d-1de0-4d79-bc70-7fd6ea9f653d",
+    "name": "deccb17d-1de0-4d79-bc70-7fd6ea9f653d (1)",
     "notes": "This is the first post to see the Digital Garden Live!",
     "imageUrl": "undefined",
-    "date": "2026-07-08T12:06:00.000Z"
+    "date": "2026-07-09T14:06:00.000Z"
+  },
+  {
+    "name": "dummy8",
+    "notes": "dummy8",
+    "imageUrl": "undefined",
+    "date": "2026-07-09T13:55:00.000Z"
+  },
+  {
+    "name": "dummy7",
+    "notes": "dummy7",
+    "imageUrl": "undefined",
+    "date": "2026-07-09T13:55:00.000Z"
+  },
+  {
+    "name": "dummy6",
+    "notes": "dummy6",
+    "imageUrl": "undefined",
+    "date": "2026-07-09T13:55:00.000Z"
+  },
+  {
+    "name": "dummy5",
+    "notes": "dummy5",
+    "imageUrl": "undefined",
+    "date": "2026-07-09T13:55:00.000Z"
+  },
+  {
+    "name": "dummy4",
+    "notes": "dummy4",
+    "imageUrl": "undefined",
+    "date": "2026-07-09T13:55:00.000Z"
+  },
+  {
+    "name": "dummy3",
+    "notes": "dummy3",
+    "imageUrl": "undefined",
+    "date": "2026-07-09T13:55:00.000Z"
+  },
+  {
+    "name": "dummy2",
+    "notes": "dummy2",
+    "imageUrl": "undefined",
+    "date": "2026-07-09T13:55:00.000Z"
   }
 ]
